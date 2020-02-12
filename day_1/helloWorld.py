@@ -19,3 +19,7 @@ print(type(['Python', 'Code', 'Learning to code']))
 print(type('Tomas'))
 print(type('Murinas'))
 print(type('Lithuania'))
+
+testas = 'Testas'
+
+print(testas)
